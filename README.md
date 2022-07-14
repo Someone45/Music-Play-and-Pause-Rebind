@@ -1,4 +1,4 @@
-# Music-Play-and-Pause-Rebind
+# Play and Pause Key Rebind
 You can rebind your play or pause key to a new key or combination of keys on keyboards that do not have the play/pause key.
 
 ## Modules Needed:
