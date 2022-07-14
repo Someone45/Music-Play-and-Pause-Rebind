@@ -7,5 +7,5 @@ pip install keyboard
 ```
 
 
-To change the key being binded, replace "EnterKeyCombinationHere" with the combination of keys necessary.
+To change the key being binded, replace "EnterKeyCombinationHere" with the combination of keys you would like to use.
 Any further documentation can be found here https://github.com/boppreh/keyboard.
